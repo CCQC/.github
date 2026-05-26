@@ -3,12 +3,7 @@
 
 Welcome to the official GitHub organization for the Center for Computational Quantum Chemistry (CCQC). 
 
-Siting near the boundaries between mathematics, computational science, physics, and chemistry, our organization hosts the open-source software, computational tools, and libraries developed by our research groups. 
-
 ## About Us
-
-The CCQC was inaugurated on August 24, 1987, when Professor Henry F. Schaefer moved from the University of California at Berkeley to his present position at the University of Georgia.
-For over three decades, the center has been dedicated to advancing the frontier of molecular physics and chemistry through rigorous computational modeling.
 
 Our research and software development are driven by two primary goals:
 1. **Method Development:** The development of new theoretical and computational methods for the study of the electronic structure of molecules.
